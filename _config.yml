@@ -1,5 +1,5 @@
 title: E N C O U N T E R
 description: Official website of Encounter, a first-person suspense game
-show_downloads: true
-google_analytics:
+show_downloads: false
+google_analytics: true
 theme: jekyll-theme-hacker
